@@ -6,7 +6,7 @@
 .header{
     max-width: 100%;
     box-shadow: 5px 5px 20px gray;
-    height:200px;
+    height:150px;
     
   }
   
@@ -17,8 +17,9 @@
   .brand{
     color: white;
     margin-left: 2%;
-    padding: 0.8em;
-    width: 10%;
+    // padding: 0.8em;
+    width: 80%;
+    padding-top: 40px;
   }
   
   .inp-container input{
@@ -79,9 +80,8 @@
   
   .cart-wishlist
   {
-    width:7%;
-    margin-top:1.7em;
-    margin-left:1em;
+    margin-top: -2.6em;
+    margin-left: 75.5em;
   }
 
   .list-icon{
@@ -94,8 +94,8 @@
     position:absolute;
     height:1em;
     width: 1em;
-    left: 83%;
-    top:1.8%;
+    // left: 83%;
+    // top:1.8%;
     text-align: center;
     line-height: 90%;
     p{
